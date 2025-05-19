@@ -1,0 +1,48 @@
+    1  LS
+    2  LS -I
+    3  LS -a
+    4  pwd
+    5  grep -O
+    6  ls
+    7  cd /c/Users/Admin/Desktop
+    8  pwd
+    9  mkdir Folder
+   10  touch test.txt
+   11  vim test.txt
+   12  cd Desktop
+   13  cd /c/Users/Admin/Desktop
+   14  nano test.txt
+   15  cat test.txt
+   16  chmod test.txt
+   17  chmod --help
+   18  git clone https://github.com/humanitiesenjoyer/HW_10.git
+   19  cd hw_10
+   20  touch test_ignore.txt
+   21  nano .gitignore
+   22  git status
+   23  git add .gitignore
+   24  git commit -m "First commit"
+   25  git config -- global user.name "Natalie"
+   26  git config --global user.email natalia.borovyk1111@gmail.com
+   27  git commit -m "second try"
+   28  touch main_test.txt
+   29  git add .gitignore
+   30  git commit -m "New commit"
+   31  git checkout -b <develop>
+   32  git checkout -b <develop>
+   33  git checkout -b 'develop'
+   34  git checkout develop
+   35  touch develop_test.txt
+   36  git add develop
+   37  git add
+   38  git add develop_test.txt
+   39  nano develop_test.txt
+   40  git commit -m 'just a small change'
+   41  git status
+   42  git add develop_test.txt
+   43  git commit 'another small change'
+   44  git commit -m 'another small change'
+   45  git checkout main
+   46  git merge develop
+   47  git log
+   48  history > command_list.csv
